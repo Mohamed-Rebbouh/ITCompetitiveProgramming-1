@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\bin\Debug\net6.0\ch27.exe
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\bin\Debug\net6.0\ch27.deps.json
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\bin\Debug\net6.0\ch27.runtimeconfig.json
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\bin\Debug\net6.0\ch27.dll
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\bin\Debug\net6.0\ch27.pdb
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\obj\Debug\net6.0\ch27.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\obj\Debug\net6.0\ch27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\obj\Debug\net6.0\ch27.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\obj\Debug\net6.0\ch27.AssemblyInfo.cs
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\obj\Debug\net6.0\ch27.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\obj\Debug\net6.0\ch27.dll
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\obj\Debug\net6.0\refint\ch27.dll
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\obj\Debug\net6.0\ch27.pdb
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\obj\Debug\net6.0\ch27.genruntimeconfig.cache
+C:\Users\DELL\Desktop\2nd day\ch27\ch27\obj\Debug\net6.0\ref\ch27.dll
