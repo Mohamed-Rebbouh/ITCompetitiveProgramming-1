@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\2nd day\ch25\bin\Debug\net6.0\ch25.exe
+C:\Users\DELL\Desktop\2nd day\ch25\bin\Debug\net6.0\ch25.deps.json
+C:\Users\DELL\Desktop\2nd day\ch25\bin\Debug\net6.0\ch25.runtimeconfig.json
+C:\Users\DELL\Desktop\2nd day\ch25\bin\Debug\net6.0\ch25.dll
+C:\Users\DELL\Desktop\2nd day\ch25\bin\Debug\net6.0\ch25.pdb
+C:\Users\DELL\Desktop\2nd day\ch25\obj\Debug\net6.0\ch25.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\2nd day\ch25\obj\Debug\net6.0\ch25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\2nd day\ch25\obj\Debug\net6.0\ch25.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\2nd day\ch25\obj\Debug\net6.0\ch25.AssemblyInfo.cs
+C:\Users\DELL\Desktop\2nd day\ch25\obj\Debug\net6.0\ch25.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\2nd day\ch25\obj\Debug\net6.0\ch25.dll
+C:\Users\DELL\Desktop\2nd day\ch25\obj\Debug\net6.0\refint\ch25.dll
+C:\Users\DELL\Desktop\2nd day\ch25\obj\Debug\net6.0\ch25.pdb
+C:\Users\DELL\Desktop\2nd day\ch25\obj\Debug\net6.0\ch25.genruntimeconfig.cache
+C:\Users\DELL\Desktop\2nd day\ch25\obj\Debug\net6.0\ref\ch25.dll
